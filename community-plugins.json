@@ -64230,5 +64230,12 @@
     "author": "nickparkes7",
     "description": "Turn note text into squiggles so you can write freely without stopping to reread or edit. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nickparkes7/obsidian-scribble-mode"
+  },
+  {
+    "id": "study-flow-assistant",
+    "name": "Study Flow Assistant",
+    "author": "dalt",
+    "description": "Comprehensive academic study assistant: customizable Pomodoro timer, task and habit tracker, time blocking calendar, metrics, and distraction-free Zen mode.",
+    "repo": "dalvt/StudyFlow"
   }
 ]
